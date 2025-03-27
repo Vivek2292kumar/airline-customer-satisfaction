@@ -1,8 +1,9 @@
 # airline-customer-satisfaction
-##Overview
+#Overview
+
 This project analyzes airline reviews to predict passenger satisfaction and extract service insights using EDA, NLP, and Machine Learning. It involves data preprocessing, feature engineering, and predictive modeling to classify reviews based on customer sentiment.
 
-##Dataset
+#Dataset
 The dataset includes various columns such as:
 
 Review Details: Airline name, customer reviews, ratings (overall, seat comfort, cabin service, etc.)
@@ -11,7 +12,7 @@ Passenger Details: Traveller type (Solo, Family, Business, etc.), Cabin class (E
 
 Flight Details: Route, Date flown, Aircraft type
 
-##Technologies Used
+#Technologies Used
 Programming: Python
 
 Data Processing: Pandas, NumPy
@@ -24,7 +25,7 @@ Machine Learning: Scikit-learn, XGBoost, Random Forest, Logistic Regression
 
 Model Evaluation: Accuracy, Precision, Recall, F1-score
 
-##Features & Methodology
+#Features & Methodology
 Exploratory Data Analysis (EDA) – Understanding customer behavior through statistical analysis and visualizations.
 
 Text Preprocessing – Cleaning reviews (removing stopwords, punctuation, and URLs).
@@ -35,7 +36,7 @@ Model Training – Training various ML models to classify reviews as positive or
 
 Insights & Business Impact – Identifying key factors affecting airline satisfaction and areas for improvement.
 
-📈 Results & Insights
+#Results & Insights
 Key drivers of customer satisfaction include cabin service, seat comfort, and value for money.
 
 Text analysis revealed common pain points such as delayed flights, rude staff, and uncomfortable seating.
